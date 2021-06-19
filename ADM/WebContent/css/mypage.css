@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+
+
+#par{
+	display: flex;
+	flex-direction: row;
+	width : 100%;
+	height : 500px;
+}
+
+.pad{
+	width : 5%;
+	height: 100%;
+}
+
+#nav{
+	margin-left: 2%;
+	width: 20%;
+}
+
+#content{
+	width : 45%;
+	
+}
+
+#content table{
+		width : 100%;
+		
+	
+}
+
+#end{
+	width : 20%;
+	
+}
+#perfdate h2{
+	text-align: center;
+	text-shadow: 1px 1px 1px lightgray;	
+}
+.savebtn{
+		display: inline-block;
+	    margin-bottom: 0;
+	    font-weight: 400;
+	    text-align: center;
+	    white-space: nowrap;
+	    vertical-align: middle;
+	    touch-action: manipulation;
+	    cursor: pointer;
+	    border: 1px solid transparent;
+	    padding: 6px 12px;
+	    font-size: 14px;
+	    line-height: 1.42857143;
+	    border-radius: 10px;
+	    user-select: none;
+	    width: 100%;
+	}
+	
+	.save{
+	    color: #333;
+    background-color: #EF3F43;
+    border-color: #ccc;
+    box-shadow: 2px 3px 2px 1px lightgray;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    height: 100%;
+    width: 100%;
+    	
+	}
