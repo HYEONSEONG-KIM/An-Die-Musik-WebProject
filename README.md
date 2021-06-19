@@ -39,7 +39,8 @@ An Die Musik(음악에게) 공연 예매 시스템
 
 ## 산출물
 
-- 요구사항 정의서  ![image-20210619172732872](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\image-20210619172732872.png)
+- 요구사항 정의서  ![image](https://user-images.githubusercontent.com/70748105/122636699-875dd200-d125-11eb-8357-5688cc3a841b.png)
+
 - ERD  ![image](https://user-images.githubusercontent.com/70748105/122636262-3cdb5600-d123-11eb-8450-43dfedb9f9ea.png)
 
 - 메뉴 구조도  ![image](https://user-images.githubusercontent.com/70748105/122636331-aeb39f80-d123-11eb-93b4-c6fdf40f0d3a.png)
